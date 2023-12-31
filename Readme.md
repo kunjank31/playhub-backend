@@ -38,9 +38,7 @@ Start the server
 
 ## API Reference
 
-```bash
-https://github.com/kunjank31/playhub-backend.git
-```
+- [PlayHub API Documentation](https://documenter.getpostman.com/view/15177510/2s9YsDkFN5)
 
 
 
